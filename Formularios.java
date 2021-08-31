@@ -1,7 +1,7 @@
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
-
+//chumbala cachumbala
 public class Formularios {
 
 	private JFrame frame;
